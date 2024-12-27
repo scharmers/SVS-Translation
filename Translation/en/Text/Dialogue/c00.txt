@@ -170,7 +170,7 @@
 「……好き、です……あなたに聞かれたから答えただけなので……悪く思わないでくださいね」=「...I like them... I only answered because you asked... so please don't take it the wrong way.」
 「大好きな人がいるので、あなたと付き合うことは出来ません」=「I already have someone I love, so I can't go out with you.」
 「元気がないとなにも出来ませんから、食事はしっかりとりましょうね」=「You can't do anything without energy, so make sure to eat right.」
-「いつもなら平静に聞ける話なのに、なんだか身体が熱くなってしまいます……」=「Normally, I could hear that without it bothering me, but my body feels hot for some reason...」
+「いつもなら平静に聞ける話なのに、なんだか身体が熱くなってしまいます……」=「Normally, I could listen to that without it bothering me, but my body feels hot for some reason...」
 「日曜のお昼ですね？　是非、参加させてください」=「Sunday at noon, right? I'd love to join.」
 「やり甲斐を感じているのでしたら、たくさんした方が良いと思いますよ」=「If you feel it's worthwhile, then I believe it's best to do more.」
 「仲良しだと思っていますよ」=「I guess we're close friends.」

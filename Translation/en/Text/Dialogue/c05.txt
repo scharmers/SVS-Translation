@@ -38,7 +38,7 @@
 「やはり女性のそれとは違って、しっかりしていますね……」=「It's pretty firm, not like a woman's, isn't it...?」
 「ありがとうございます……よく分かっていないので、リードしていただけると助かります……」=「Thank you very much... I don't know much about it, so if you take the lead, that would be great...」
 「私達は今の関係がちょうど良いと思うので……」=「I think our current relationship is just right...」
-「……私って、面白みに欠けるのでしょうか？」=「...am I not interesting?」
+「……私って、面白みに欠けるのでしょうか？」=「...am I uninteresting?」
 「ふふ……この昂り、静めてもらえますよね？」=「Fufu... could you help to calm me down?」
 「恋人同士だからこそ、肉体的な関係も大事だと思っています……お互いを知るうえでは特に……」=「We're lovers, so I believe physical intimacy is important... especially when it comes to learning about each other.」
 「[NPC_thatPersonName]とセックスするのですが、あなたも混ざってみませんか？」=「I'm going to have sex with [NPC_thatPersonName], would you like to join?」
@@ -100,7 +100,7 @@
 「明日の朝、[NPC_comehereLaterMap]に来てください」=「Please, come to [NPC_comehereLaterMap] tomorrow morning.」
 「ふぅ……危ないところでした」=「Phew... that was close.」
 「いえ、私なんて大したことはありません……」=「No, I'm nothing special...」
-「いつか、私に見合った職が見つかると信じています……その日までの今は充電期間です」=「I believe that, one day, I will find a job that suits me... until that day comes, it's time to recharge.」
+「いつか、私に見合った職が見つかると信じています……その日までの今は充電期間です」=「I believe that, one day, I'll find a job that suits me.... until that day comes, now's the time to recharge.」
 「危ない日ですが……たぶん、大丈夫だと思います」=「It's a risky day, but... it should probably be alright.」
 「くどいですよ」=「You're annoying.」
 「ふふっ、気持ちよくありませんか？」=「Fufu, doesn't that feel good?」
@@ -170,7 +170,7 @@
 「あ、ん……私のを揉んでも面白くないのでは……？」=「Ah, nh... it can't be that fun to rub me, you know...?」
 「迷惑は承知の上ですが、あなたが好きなんです……私とお付き合いしてください」=「I know this is annoying, but I like you... please go out with me.」
 「良いですよ、ただ危ない日なので、挿入しないと約束してくださいね」=「That's fine, but it's a risky day, so promise me you won't put it in.」
-「んん……甘えたくなったんですか？」=「Mmm... do you want to be spoiled?」
+「んん……甘えたくなったんですか？」=「Mmm... did you want to act spoiled?」
 「いえ……そういう関係の方はいません」=「No... I don't have that kind of relationship.」
 「うーん……そこまで根を詰める必要はないかと」=「Mmm-hmm... there is no need to dig that deep.」
 「では……時間と日にち、間違えないでくださいね？」=「Then... don't get the time and date wrong, okay?」
@@ -261,7 +261,7 @@
 「皆さんの力を貸してください」=「Please lend me your strength.」
 「その……私達、もう一度やり直しませんか？」=「Um... can't we try again?」
 「あなたとお話ししたいなと思っていまして……少しよろしいですか？」=「I was thinking I'd like to talk to you... Do you have a moment?」
-「先を越されてしまいましたね……ふふ、私も前からあなたのことが好きでした」=「You got ahead of me... hehe, I've liked you for a long time too.」
+「先を越されてしまいましたね……ふふ、私も前からあなたのことが好きでした」=「You beat me to it... fufu, I've liked you for a while too.」
 「あなたの振舞いのおかげで、滞りなく終わりました」=「Thanks to your behavior, everything went smoothly.」
 「こんにちは」=「Hello.」
 「こ、こんな大きなゴミまで捨ててあるなんて……」=「To think there's such a big piece of trash discarded...」
@@ -272,7 +272,7 @@
 「神社でお仕事を頑張ってみてはいかがでしょう？」=「How about trying your best with work at the shrine?」
 「あとで[NPC_comehereLaterMap]に来てもらえませんか？」=「Could you come to [NPC_comehereLaterMap] later?」
 「どうぞ、無様に敗北した私に、厳しく言葉を浴びせても……」=「Feel free to harshly criticize me, who was defeated so miserably...」
-「あなたのおかげであと少し……ふふっ」=「Thanks to you, just a little more... hehe.」
+「あなたのおかげであと少し……ふふっ」=「Thanks to you, I just about got it.. fufu!」
 「良いですよ……この背徳感、興奮を覚えます……」=「That's fine... This sense of guilt, it excites me...」
 「ふふ、よかったです」=「Hehe, that's good.」
 「残念です……そっとしておくのが良いのでしょうね」=「It's unfortunate... Perhaps it's best to leave it alone.」
@@ -282,7 +282,7 @@
 「綺麗になりましたね、これも力を合わせたからですね」=「It got clean, thanks to our combined efforts.」
 「私、勉強が苦手で……必要なこととは分かっていても、つい後回しにしてしまうんです」=「I'm not good at studying... Even though I know it's necessary, I tend to put it off.」
 「ビーチでのお仕事、頑張ってくださいね」=「Please do your best with your work at the beach.」
-「服、欲しいと思っているんです……ついでに下着も……ふふ、今度、付き合ってくれませんか？」=「I want clothes... and underwear too... hehe, will you come with me next time?」
+「服、欲しいと思っているんです……ついでに下着も……ふふ、今度、付き合ってくれませんか？」=「I want to buy some clothes... and underwear, too... fufu, would you like to come along with me when I do?」
 「不純な気配がしますね……お断りします」=「I sense an impure aura... I refuse.」
 「んん……幸せです……」=「Mmm... I'm happy...」
 「今日は思い切り楽しみたいと思います」=「I want to enjoy myself to the fullest today.」
@@ -300,7 +300,7 @@
 「ご自身の為にも、勉強はしてくださいね」=「For your own sake, please study.」
 「あなたのことが好きです」=「I like you.」
 「新商品に目はいくのですけれど、結局いつものを買ってしまっています」=「I always look at new products, but I end up buying the usual ones.」
-「くす、興奮しますか？」=「Hehe, are you excited?」
+「くす、興奮しますか？」=「*Giggle* Are you excited?」
 「では、どうぞ……既に準備万端ですよ」=「Then, please... I'm all set.」
 「もう十分ではありませんか？　そろそろ自由にしていただけると……」=「Isn't it enough already? Could you please let me free soon...」
 「皆さん、食事にしませんか？」=「Everyone, shall we have a meal?」
@@ -323,7 +323,7 @@
 「失礼しました、私としたことが……」=「I'm sorry, I can't believe I did that...」
 「そう言ってもらえると嬉しいですね」=「I'm glad you said that.」
 「私とあの人は心から愛し合っています……それ以外、何が聞きたいのですか？」=「That person and I love each other from the bottom of our hearts... what else do you want to know?」
-「恋愛を歌った歌、多いと思いませんか？　昔の曲でも色褪せず共感する歌詞があって……私、好きなんです」=「Don't you think there are many songs about love? Even old songs have lyrics that don't fade and resonate... I like them.」
+「恋愛を歌った歌、多いと思いませんか？　昔の曲でも色褪せず共感する歌詞があって……私、好きなんです」=「What do you think about all those love songs? Even the old songs have lyrics that I can relate to and never fade away... I just love them.」
 「そうですね……せっかくの機会です、楽しませてもらいます」=「Yes, indeed... It's a great opportunity, so I'll enjoy it.」
 「……そのくらいで、私は従いません」=「...I won't comply with just that.」
 「あれこれ考えてしまうせいでしょうか……どうしても身体がぎこちないんですよね」=「Is it because I overthink things...? My body feels awkward.」

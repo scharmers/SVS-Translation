@@ -1,7 +1,3 @@
-// c13 - オタク
-// Place translated line after the =
-// Remember to uncomment lines that are translated
-
 「むぅ……あまり撫でられると、その、恥ずかしいですぞ……」=「Mmm... It's embarrassing if you pet me too much...」
 「ふむ、これ以上となると……もしや、哲学の類ですかな？」=「Hmm, any more than this... Could it be some kind of philosophy?」
 「わたくしももっと、人並みの社会性を身に付けた方が良いのでしょうか……？」=「Would it be better for me to learn to be as social as anyone else...?」
@@ -42,7 +38,6 @@
 「おや、どうかしましたかな？」=「Oh, is something the matter?」
 「ぬふふ。わたくしという沼にハマったあなたのことを、一生逃がしたりはしませんぞ……」=「Nufufu. I won't let you escape for the rest of your life, since you've become addicted to the swamp I am...」
 「ぬふふ、それでは夜通し付き合ってもらうとしましょうぞ……♪」=「Nufufu, then I'll have you stay with me all night...♪」
-「[NPC_thatPersonName]がセックスしていましてな……まったくお盛んなことですなぁ」=「NPC_thatPersonName] has been having sex... is a very lively thing.」
 「作品を楽しむための時間は一秒でも惜しい……とはいえ、やはり食事を疎かにしてはダメ……？」=「I don't have even a second to enjoy my work... That said, shouldn't I neglect my food...?」
 「まさかわたくし、高度な煽りを受けている……？」=「Don't tell me I'm being stirred up by something so high-level...?」
 「みなさん、手伝ってはくれませぬか？」=「Would you all be willing to help?」
@@ -83,8 +78,6 @@
 「特段、これというほどのことはありませんな、ええ」=「This is nothing special. Yes.」
 「キャラに自己投影するでもなく、あなたと恋の喜びを分かち合える今の時こそ……ふふ、まさに最上の幸せですなぁ……」=「Now's the time to share the joys of love with you instead of projecting yourself onto your character... Hehe, this is the greatest happiness I've ever had...」
 「ふむ、でしたら、これで少しでも元気が出れば……」=「Hmm, in that case, if this cheers me up even a little...」
-「[NPC_thatPersonName]とセックスするのですが、よければご一緒にいかがですかな？」=「I'm having sex with [NPC_thatPersonName], would you like to join me?」
-「その……[NPC_thatPersonName]と、セックスしたのですかな？」=「Did you have sex with that ...[NPC_thatPersonName]?」
 「みなさんで勉強するというのはいかがですかな？」=「How about we all study together?」
 「ふむ……？」=「Hmm...?」
 「ぐはっ……あ、いえ、何でもありませんぞ……」=「Gwah... Ah, no, it's nothing...」
@@ -93,7 +86,6 @@
 「そうやって、あまり自分を貶めるものではありませんぞ」=「You shouldn't demean yourself like that.」
 「いわゆるセックスという行為、あなたはしたことがありますかな？」=「Have you ever had sex before?」
 「何か、いやなものの気配を感じるような……」=「I feel like I'm sensing something unpleasant...」
-「[NPC_thatPersonName]の噂はもう耳に入っていますかな？　結構な評判ですぞ」=「Have you heard the rumors about [NPC_thatPersonName] yet? It has quite a reputation.」
 「ビーチで水着姿を堪能する仕事……じゃなかった、人助けのお仕事をがんばる頃合いでは？」=「It's a job where you can enjoy wearing a swimsuit on the beach... I mean, isn't it about time for you to do your best to help people?」
 「……なんと、それは……心から感謝しますぞ」=「...Well, that's... I'm truly grateful.」
 「運動には向き不向きもありますから、どうするかは自由だと思いますぞ」=「There are some things that are unsuitable for exercise, so I think you're free to do what you want.」
@@ -123,7 +115,6 @@
 「むんむんとしたこの場の熱気が、余計にわたくしを昂ぶらせて……くぅぅ……」=「The heat of this place is making me even more excited... Kuuuh...」
 「ほほう、流石ですな」=「Oh-ho, that's impressive.」
 「あちらに負けてしまわぬよう、激しくやってしまいましょうぞ……♪」=「Let's do it harder so we don't lose to them...♪」
-「[NPC_thatPersonName]、あなたのことが好きだそうですぞ？　ぬふふ、やはり隅に置けませんなぁ」=「I heard that [NPC_thatPersonName] likes you? I can't leave you out of it after all.」
 「あなたのこと、そろそろ解き放ってあげるというのもアリかもしれませんなぁ……？」=「Maybe it's about time I let you go...?」
 「むむ、これといって身に覚えのない話ですな」=「Hmm, I don't remember this at all.」
 「食事より優先できる情熱があるならば、それを大事にできるのもまた人というものですぞ」=「If you have a passion that prioritizes food over food, then people are the ones who can take good care of it.」
@@ -146,10 +137,8 @@
 「押しの強いオタクは嫌われがち……いやしかし、恋ともなればそうも言ってはいられないのでは……？」=「Otaku tend to hate pushy otaku... But when it comes to love, isn't that what you can't say...?」
 「ふむ、なかなか良い感じの雰囲気ですなぁ」=「Hmm, the atmosphere is quite nice.」
 「元気ですなあ。まあ、別に構いませぬぞ」=「You're doing well. Well, I don't mind.」
-「[NPC_thatPersonName]とは、ぜひともお近づきになっておくべきですぞ」=「You should definitely get to know [NPC_thatPersonName].」
 「キス、してはくれませぬか？」=「Would you kiss me?」
 「くぅ～、この熱気たるや、テンション上がりまくりですな～！」=「Kuuu~, you're getting all worked up over this heat~!」
-「[NPC_thatPersonName]が告白されていたようですが……結果までは把握できておりませんな」=「It seems that [NPC_thatPersonName] was confessed, but we don't have the ... results.」
 「創作でなら美味しく頂けるのですが、リアルで同性同士というのは……」=「It would be delicious in fiction, but in real life, being of the same sex...」
 「ありがとうですぞ」=「Thank you very much.」
 「ぬふふ、それではお忘れなきよう」=「Nufufu. Well then, let us not forget.」
@@ -163,7 +152,6 @@
 「恋とエロスは本来不可分の存在……なればこそ、そこには深みや真髄があるとは思いませんかな？」=「Love and eroticism are fundamentally inseparable... Don't you think that's why there's depth and essence there?」
 「ぬふふ、わたくしも好きですぞ」=「Nufufu, I love you too.」
 「なんと、勘違いとはお恥ずかしい……」=「What an embarrassing misunderstanding...」
-「よければみなさん、[NPC_thatPersonName]を気にかけてあげてくれますかな」=「If you don't mind, could you all take care of [NPC_thatPersonName]?」
 「このトラブルの多さはいったい……うぅ、目が回りそうですぞ……」=「What's with all this trouble...? Ugh, I'm getting dizzy...」
 「あの人に手を出したのですから、罰が当たっても仕方のないことですぞ……ぬふふ……」=「I laid my hands on him, so there's no point in being punished... Hehehe...」
 「ならここはひとつ、お願いさせてもらえると……」=「Then let me ask you one thing...」
@@ -276,7 +264,6 @@
 「ここはひとつ、わたくしからもの申さねば……」=「There is one thing I must say...」
 「なら、早く……もう一秒だって待てませんぞ……♪」=「Then hurry... I can't wait another second...♪」
 「その、構いませぬが……わたくし経験がないもので、どうかお手柔らかに……」=「Umm, I don't mind, but... I have no experience, so please go easy on me...」
-「わたくしの[NPC_onesProperty0_item]とあなたの[PC_onesProperty0_item]、交換してみるのはいかがですかな？」=「How about we trade my [NPC_onesProperty0_item] for your [PC_onesProperty0_item]?」
 「ですなぁ。身に付けた知識はきっと、人生を豊かにしてくれるはずですぞ」=「You're right. I'm sure the knowledge you've acquired will enrich your life.」
 「適度に運動しなければ、健康が逃げていってしまいますぞ」=「If you don't exercise properly, your health will run away.」
 「よかったら、少しわたくしと話しませんかな？」=「Would you like to talk to me for a bit?」
@@ -303,7 +290,6 @@
 「浮気というのはいただけませぬな……わたくしたち、もう終わりにするとしましょうぞ」=「You can't call it cheating... Let's end this already.」
 「真っ直ぐに求められることほど嬉しいことなんて、そうそうないと思いますぞ」=「I don't think there's anything that makes you happier than being asked to do it directly.」
 「ふふん、そうはさせませんぞ」=「Hehe, I won't let you do that.」
-「[NPC_thatPersonName]のしつこさには参っていましてな……まったく、どうにかならないものか……」=「I've been having a hard time with [NPC_thatPersonName]'s persistence ... at all, can't you do something about it ...」
 「罪を憎んで、人を憎まず……大丈夫、許してあげましょう」=「Hate your sins, don't hate others... Don't worry, I'll forgive you.」
 「ふむ、なんとも困った人ですなあ」=「Hmm, what a troublesome person.」
 「はっはっは、そうして唾を飛ばすことだけは、ずいぶん得意みたいですねぇ」=「Hahaha, you seem to be quite good at spitting like that.」
@@ -317,7 +303,6 @@
 「紙の本と電子書籍、パッケージとＤＬ版……そこにはそれぞれの良さがあるわけで、やはりどちらも欠かせぬ存在だとは思いませんかな？」=「Paper books, e-books, packaging, and DL editions... They all have their own merits, so don't you think they're both indispensable?」
 「うへへぇ……どうしたんですか？　もっともっと、激しく罵ってみせてくださいよぉ……」=「Uheheh... What's wrong? Please show me more, more intense abuse...」
 「……では、あなたの言葉を信じましょうぞ」=「...Well then, let's take your word for it.」
-「[NPC_thatPersonName]には何やら悪い噂があるようですぞ」=「There are some bad rumors about [NPC_thatPersonName].」
 「ほほう、あなたもお嫌いでしたか」=「Oh-ho, so you don't like it either?」
 「ふふん、恋人であるところのこのわたくしに、何か御用ですかな？」=「Heh heh. What can I do for you, as your lover?」
 「ほほう、なるほど……ご忠告、痛み入りますな」=「Oh-ho, I see... Thank you for the warning.」
@@ -336,7 +321,6 @@
 「あぅ……すみませぬ、まだ気持ちいいのが収まりきらず……」=「Auh... I'm sorry, I can't stop feeling good yet...」
 「ふむ、わたくしも前を向いていかねばなりませんな」=「Hmm, I must face forward as well.」
 「ふむ、なかなかの抱き心地ですな」=「Hmm, it's quite comfortable to hold.」
-「あとで[NPC_comehereLaterMap]に来てくれますかな」=「Can you come back to [NPC_comehereLaterMap] later?」
 「わ、わたくしを放り出すと？　なにゆえそんな残酷なことを……！」=「Y-You're abandoning me? Why would you do such a cruel thing...?!」
 「はっきり言えば、嫌いですな」=「To put it bluntly, I hate you.」
 「でしたら、わたくしと付き合ってみるというのはどうですかな？」=「In that case, why don't you go out with me?」
@@ -391,7 +375,6 @@
 「あまりおだてられても、わたくし、困ってしまいますぞ」=「If you flatter me too much, I'll be in trouble.」
 「ではでは、たっぷり気持ち良くしてもらいますぞ？」=「Well then, I'll make you feel good, okay?」
 「己の性癖を恥じることなく、ただ正直に生きていく……それがわたくしの道なればっ！」=「Don't be ashamed of your fetishes. Just live an honest life... If that's my path!」
-「よければみなさん、[PC_thatPersonName]を気にかけてあげてくれますかな」=「If you don't mind, could you all take care of [PC_thatPersonName]?」
 「よかったですぞ……」=「I'm so glad...」
 「わたくしと付き合ってみる、というのはいかがですかな？」=「How about going out with me?」
 「そのまま動いてはいけませんぞ」=「You mustn't move like that.」
@@ -405,13 +388,10 @@
 「いえ、シてませんぞ……？」=「No, I didn't...」
 「ストーキングは立派な犯罪なのですぞ」=「Stalking is a fine crime.」
 「時間はたっぷりありますから、色んなことが出来そうですな」=「We have plenty of time, so we should be able to do all sorts of things.」
-「[NPC_thatPersonName]とお近づきになるために、どうかご助力いただきたいっ」=「Please help us get closer to [NPC_thatPersonName].」
 「ぬふふ、よしよし……これは撫でている方も気持ちがいいですな……」=「Nufufu, good, good... This feels good for the one stroking it...」
 「ふぅ……今は餅ではなく肉を焼かねば……」=「Phew... Right now, I have to cook meat instead of mochi...」
 「むぅ……すみませぬ、あまり軽々しく考えてしまうのもどうかと思ったもので」=「Mmm... I'm sorry. I didn't want to think too lightly about it.」
 「ほっ、冷静さを取り戻したようですな」=「Hoh, it seems you have regained your composure.」
-「よいですかな、[NPC_thatPersonName]とはもう関わってはなりませんぞ？」=「Do not get involved with [NPC_thatPersonName] anymore, okay?」
-「[NPC_thatPersonName]のこと、どのようにお思いですかな？」=「What do you think of [NPC_thatPersonName]?」
 「わたくしと別れてはくれませぬか？」=「Will you break up with me?」
 「むぅ、見るだけとはまた、じっくり焦らすような真似をしてくれますな……」=「Mmm, you're taking your time teasing me just by looking at me...」
 「たはは、褒められてしまいましたな」=「Tahaha, that was a compliment.」
@@ -431,7 +411,6 @@
 「いえ、特にはいませんな」=「No, I don't think so.」
 「あなたのこと、抱かせてもらいますぞ」=「I'll hold you in my arms.」
 「んぢゅるっ、むちゅ、ちゅむっ……頭、とけてしまいそうですな……」=「*slurp* *kiss* *smack*... My head feels like it's going to melt...」
-「明日の朝、[NPC_comehereLaterMap]に来てくれますかな」=「Will you come to [NPC_comehereLaterMap] tomorrow morning?」
 「ふむ、心地良い疲労感ですな」=「Hmm, what a pleasant exhaustion.」
 「ふぅ、すっかり綺麗になったおかげか、気分まで清々しいですな」=「Phew, thanks to how clean you've become, I'm feeling refreshed.」
 「そ、それは、ええ……その、そういうことでしたら……」=「W-Well, yes... Well, if that's the case...」
@@ -439,7 +418,6 @@
 「家事ができない、そんな一面すらも時に魅力へと転じてしまうのが、この世界の深さだとは思いませぬか？」=「Don't you think it's the depth of this world that can sometimes turn even a side of you that can't do housework into a charm?」
 「悪いのですが、どうしても異性に興味を持てないタチでして……」=「Sorry, but I just can't bring myself to be interested in the opposite sex...」
 「おはようございます」=「Good morning.」
-「わたくしの[NPC_onesProperty1_item]とあなたの[PC_onesProperty1_item]、交換してみるのはいかがですかな？」=「How about we trade my [NPC_onesProperty1_item] for your [PC_onesProperty1_item]?」
 「すみませぬ、あなたと別れてしまわなければ、前に進むことができぬのです……」=「I'm sorry. If I don't part ways with you, I won't be able to move forward...」
 「絆は結べていると思ってますぞ」=「I think we've formed a bond.」
 「む……こういうのは慣れませぬが、その、悪くはないですな……」=「Mm... I can't get used to this, but, um, it's not bad...」
@@ -450,7 +428,6 @@
 「んぅぅ、ぢゅむっ、んふっ……そんなにねっとりされてしまうと、とろけてしまいますぞ……」=「Mn, *slurp*, mnf... If you're so sticky, I'm going to melt...」
 「お、落ち着いて！　大丈夫、大丈夫ですから……！」=「C-Calm down! It's okay, it's all right...!」
 「どうやら人々がわたくしの噂をしているようですな」=「It seems that people are spreading rumors about me.」
-「[NPC]と[NPC2]がいなくなったようですが……ふむ、どうにも匂いますなあ」=「It seems [NPC] and [NPC2] are missing... Hmmm, I can't help but smell it.」
 「んっ……はぁ、これが、キ、キスというものの感触なんですな……ふふ……」=「Mn... Hah, so this is what a k-kiss feels like... Hehe...」
 「ぬふふ、やはりあなたは理解ってますなぁ」=「Nufufu, you really do understand.」
 「我が道をゆくオタクでも、もっと世のため人のために働くべきでしょうか……？」=「Even if you're an otaku on your own path, should you work for the sake of the world more...?」

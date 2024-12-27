@@ -114,7 +114,7 @@
 「それはもちろん！　自分のためになるもの」=「That, of course! Something good for me.」
 「ふふっ、色々期待してもいいってことだよね？　楽しみ～」=「Fufu, that means I can expect a lot, right? Looking forward to it~」
 「あ……ううん、やっぱりなんでもない」=「Ah... yeah, no, it's nothing.」
-「ほーら、どうかなぁ♪」=「Hey~, you know♪」
+「ほーら、どうかなぁ♪」=「Hey~, what do you think♪」
 「私、君の秘密を知ってるんだよね♪　これがどういうことか、君ならわかるよね？」=「I know your secret♪ You understand what that means, don't you?」
 「ふあぁ～……時間経つのって早いねえ、もうこんな時間なんだ」=「Phew~... Time flies by so fast, it's so late already.」
 「……今、ちょっとだけモヤモヤしてるの」=「...I'm a little bummed out right now.」
@@ -400,7 +400,7 @@
 「本当に？　それならよかったぁ……」=「Really? Then that's good...」
 「私達の関係……もう終わりにしない？」=「Our relationship... it's not over already, is it?」
 「振った人と話すのは少し気まずいよ……君はそんなことないの？」=「It's a little awkward talking to someone you just dumped... you don't feel that way?」
-「恋愛映画やドラマみたいにはいかないとわかってるけど、やっぱり憧れちゃうね」=「I know it's not going to be like a romantic movie or drama, but I can't help but admire them.」
+「恋愛映画やドラマみたいにはいかないとわかってるけど、やっぱり憧れちゃうね」=「I know this isn't a romantic movie or TV show, but I can't help but admire you.」
 「うん、聞いてくれてありがと」=「Yeah, thank you for listening.」
 「日曜のお昼にＢＢＱをするんだけど、君もどう？」=「I'm having a BBQ on Sunday at noon, would you like to join me?」
 「ふふ、素直で可愛い♪」=「Fufu, so sweet and honest...」

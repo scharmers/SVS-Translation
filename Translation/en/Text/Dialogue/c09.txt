@@ -131,7 +131,7 @@
 「ああ……早く来てくれ、もうお前のことを我慢できねえ……」=「Ahhh... hurry up and get over here, I just can't hold back anymore...」
 「どうした？　遠慮せずになんだって言えよな？　……恋人、なんだからよ」=「What's going on? Don't hold back, just tell me what you want, okay? ...we're lovers, you know.」
 「……じゃ、あばよ」=「...right, farewell.」
-「くーっ、こいつは止まんねえぜ！」=「Kuh, they just won't stop!」
+「くーっ、こいつは止まんねえぜ！」=「Kuh, I just can't stop!」
 「お前、随分とモテてるみたいじゃねえか」=「You seem to be very popular.」
 「へへっ、またあたしの勝ちだな！　どうするよ？　もう一回勝負するか？」=「Hehe, I win again! What do you want to do? Want to play another round?」
 「頼む……あたしのこと、めちゃくちゃにしてくれ……そうでもしないと、あたし……」=「Please... you can just fuck me up... otherwise, I'll...」
@@ -345,7 +345,7 @@
 「へへ、やるじゃねえか……あたしのこと、思い通りにしようってか？」=「Hehe, you're good, man... are you trying to have your way with me?」
 「いや、わりぃな……そういうのは、よく考えてしてえんだ」=「Sorry... I want to think it through first.」
 「まあ、あんまり良くはねえな……」=「Well, it's not that great...」
-「言っておくが……惚気話は聞くつもりはないからな？」=「Just so you know... I don't plan on listening to any love stories.」
+「言っておくが……惚気話は聞くつもりはないからな？」=「Just so you know... I don't plan on listening to any love talk.」
 「わりぃ、らしくなかったな」=「Sorry, that wasn't like me.」
 「あんま無理すんじゃねぇぞ？」=「Don't overdo it, alright?」
 「っ……いや、忘れろ忘れろ……今は余計なこと考えてんじゃねえ……」=「...No, forget it... Don't think about anything else right now...」
@@ -547,6 +547,6 @@
 「あー、ずっとシてたくなっちまう……でも、流石にそろそろ寝ちまわねぇとな」=「Ah-, I want to do it forever... but we should probably sleep soon.」
 「ったく、んなことするつもりじゃなかったんだけどよ……ま、楽しめたから文句は言わねぇよ」=「Damn, I didn't mean to do that... but I enjoyed it, so no complaints.」
 「ったく、めちゃくちゃしやがる……お前の口に、もう夢中っつーか……」=「Damn, you're intense... I'm obsessed with your mouth...」
-「な、なかなか手こずらせやがる……お前の調子はどうだ？」=「You're quite a challenge... how's your day going?」
+「な、なかなか手こずらせやがる……お前の調子はどうだ？」=「That was quite the challenge... how'd it go with you?」
 「最近気に入ってるもんがあるんだけどよ、お前も興味ねえか？」=「I've got a new favorite thing I've been working on lately, you interested?」
 「そうそう、美味いメシ屋を見つけたから、お前にも教えてやるよ」=「Oh yeah, I found a great restaurant, let me tell you all about it.」
